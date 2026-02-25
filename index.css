@@ -1,0 +1,16 @@
+p {
+  color: red;
+}
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+.my-class {
+  border: 1px solid black;
+}
+
+#main-heading {
+  text-align: center;
+}
